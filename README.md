@@ -17,4 +17,5 @@ Use as crdenciais de ;ogin abaixo para entrar na aplicação:
 LINKS IMPORTANTES
 
 Vídeo do App - https://drive.google.com/file/d/1phyT-U30qDHlnCcj263tNiMHddxjBrjO/view?usp=sharing
-Download do APK - https://drive.google.com/file/d/1Vr99EaMzLb_tyoVDSQ9mXhSvuNS_3-Kt/view?usp=sharing
+Vídeo do App + Backend com alterações em tempo real - https://drive.google.com/file/d/1607yVdaeQQuZWGIC6IWHtCiic1qMFNc0/view?usp=sharing
+Download do APK - https://drive.google.com/file/d/1HMsFEPmVY0K8s25FL079cDRPCoPG2IUq/view?usp=sharing
