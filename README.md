@@ -1,2 +1,2 @@
-# thoth
+# Thoth by Team Salut
  
