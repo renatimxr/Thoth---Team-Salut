@@ -22,4 +22,7 @@ Vídeo do App + Backend - https://drive.google.com/file/d/1607yVdaeQQuZWGIC6IWHt
 
 Download do APK - https://drive.google.com/file/d/1HMsFEPmVY0K8s25FL079cDRPCoPG2IUq/view?usp=sharing
 
-![todasasfeatures gif](https://github.com/renatimxr/Thoth---Team-Salut/assets/173636085/27e57274-6524-4cff-9ada-f1837c6fae85)
+
+
+![todasasfeatures-ezgif com-optimize (1)](https://github.com/renatimxr/Thoth---Team-Salut/assets/173636085/849e9ddf-4942-4c25-a1d6-235dba98b4a0)
+
