@@ -24,4 +24,6 @@ Download do APK - https://drive.google.com/file/d/1HMsFEPmVY0K8s25FL079cDRPCoPG2
 
 
 
-<div align="center">![todasasfeatures gif](https://github.com/renatimxr/Thoth---Team-Salut/assets/173636085/699b9265-eac6-48d5-bd5c-13ba5f3ab70d)</div>
+<div align="center">
+  ![todasasfeatures gif](https://github.com/renatimxr/Thoth---Team-Salut/assets/173636085/699b9265-eac6-48d5-bd5c-13ba5f3ab70d)
+</div>
