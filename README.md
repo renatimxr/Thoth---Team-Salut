@@ -1,5 +1,7 @@
 # Thoth by Team Salut
 
+![todasasfeatures gif](https://github.com/renatimxr/Thoth---Team-Salut/assets/173636085/27e57274-6524-4cff-9ada-f1837c6fae85)
+
 Projeto criado para o Hackathon  Saúde 4.0 da DocSolutions. 
 O projeto foi desenvolvido em Flutter utilizando a plataforma low-code FlutterFlow, com o Firebase como backend. 
 O app é multiplataforma, com versões para iOS e Android.
