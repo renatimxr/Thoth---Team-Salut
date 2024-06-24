@@ -5,7 +5,7 @@ O projeto foi desenvolvido em Flutter utilizando a plataforma low-code FlutterFl
 O app é multiplataforma, com versões para iOS e Android.
 
 
-C0MO TESTAR O APP
+### C0MO TESTAR O APP
 
 Para testar, baixe o apk disponível na seção de Links Importantes e instale em um celular Android com modo desenvolvedor habilitado. 
 Use as credenciais de login abaixo para entrar na aplicação:
@@ -14,7 +14,7 @@ Use as credenciais de login abaixo para entrar na aplicação:
 - senha: 123456
 
 
-LINKS IMPORTANTES
+### LINKS IMPORTANTES
 
 Vídeo do App - https://drive.google.com/file/d/1phyT-U30qDHlnCcj263tNiMHddxjBrjO/view?usp=sharing
 
